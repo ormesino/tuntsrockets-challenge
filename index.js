@@ -52,7 +52,6 @@ async function getStudentsData() {
     };
   });
   console.log("Students data retrieved! ✅");
-  console.log(students);
   return students;
 }
 
